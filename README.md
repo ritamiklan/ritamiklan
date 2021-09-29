@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ritamiklan
-- 👀 I’m interested in Full Stack.
-- 🌱 I’m currently learning React/React Native
-- 📫 How to reach me: send me a message!
 - ☕ I love coffee.
 
 <!---
