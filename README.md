@@ -1,4 +1,4 @@
-<h1>Hi, I’m Rita!</h1>
+<h4>Hi, I’m Rita!</h4>
 
 I'm currently completing a BBA in Haaga-Helia UAS. Started in January 2020 to take my interest in coding to the next level.
 
