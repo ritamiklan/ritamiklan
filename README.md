@@ -1,7 +1,10 @@
 ### Hi, I’m Rita!
 
-I'm completing a BBA in Haaga-Helia UAS which I Started in January 2020 to take my interest in coding to the next level.  
-Interested in frontend web development, health tech, and #ChangingTheRatio
+🎮 Coding since 2019  
+🖥️ BBA at Haaga-Helia UAS since January 2020 (expected to graduate in 2023)
+
+Interested in frontend web development, mobile app development, UI/UX, health tech, and #ChangingTheRatio
+
 
 ### In the works:
 
@@ -9,6 +12,7 @@ Interested in frontend web development, health tech, and #ChangingTheRatio
 📖 Stack includes **React, Node, Express,** and **JavaScript**  
 🐍 Learning **Python** with 100 days of Code bootcamp @ The App Brewery  
 🍦 Vanilla **JavaScript** with JavaScript30
+
 
 
 <!---
