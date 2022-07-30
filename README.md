@@ -8,7 +8,7 @@ Interested in frontend web development, health tech, and #ChangingTheRatio
 ☕ FineGrind - mobile app for finding specialty cafés built with **React Native**  
 📖 Stack includes **React, Node, Express,** and **JavaScript**  
 🐍 Learning **Python** with 100 days of Code bootcamp @ The App Brewery  
-🍦 Vanilla **JavaScript** with JavaScriot30
+🍦 Vanilla **JavaScript** with JavaScript30
 
 
 <!---
