@@ -1,7 +1,7 @@
 ### Hi, I’m Rita!
 
 🎮 Coding since 2019  
-🖥️ BBA at Haaga-Helia UAS since January 2020 (expected to graduate in 2023)
+🖥️ BBA at Haaga-Helia UAS
 
 Interested in frontend web development, mobile app development, UI/UX, health tech, and #ChangingTheRatio
 
