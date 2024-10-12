@@ -1,7 +1,7 @@
 ### Hi, I’m Rita!
 
 🎮 Coding since 2019  
-🖥️ studying at Aalto
+🖥️ studying at Aalto  
 💅🏻 Software Dev @ CyberCoach
 
 Interested in frontend web development, mobile app development, UI/UX, health tech, and #ChangingTheRatio
